@@ -14,8 +14,6 @@ class Dog
 
   def breed=(breed)
   @breed == breed
-  if !breed 
-    breed == "Mutt"
   end
 
   def breed
