@@ -4,10 +4,10 @@ class Dog
   end
 
   def name=(name)
-    @name = mutt 
+    @name = mutt
   end
 
   def name
     @name
-  end 
+  end
 end
