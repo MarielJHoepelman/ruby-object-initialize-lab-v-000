@@ -14,10 +14,8 @@ class Dog
 
   def breed=(breed)
   @breed == breed
-    if breed=(breed) == false
+  else 
     print "Mutt"
-    else return breed=(breed)
-    end
   end
 
   def breed
